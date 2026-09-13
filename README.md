@@ -49,9 +49,6 @@ ProyectoTutorIA/
 │   └── demo.py                  # Corre 3 escenarios de ejemplo y muestra el prompt ensamblado
 └── docs/
     ├── Avance1_Tutor_Academico_IA.pdf   # Informe con explicación y evidencia de ejecución
-    ├── diagrama_arquitectura.png
-    ├── captura_ejecucion.png
-    └── salida_demo.txt          # Salida completa de consola de demo.py
 ```
 
 ## Cómo ejecutar el demo
